@@ -8,6 +8,7 @@
     "demo": "npm run build && cross-env NODE_ENV=test SUMERU_CONFIG=./trpc_nodejs.yaml node dist/app.js",
     "lint": "eslint src --fix --ext .ts,.vue",
     "r-patch": "lerna publish patch --conventional-commits",
+    "r-minor": "lerna publish minor --conventional-commits",
     "test": "jest"
   },
   "husky": {
