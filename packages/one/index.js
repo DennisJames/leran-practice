@@ -1,3 +1,3 @@
 module.exports = () => {
-    console.log('package one, version 3')
+    console.log('package one, version 4')
 }
