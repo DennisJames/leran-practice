@@ -4,7 +4,7 @@
   "scripts": {
     "build": "tsc -p .",
     "codec": "trpc-tools-codec --gen-client --gen-server --force-long --keep-case --lint eslint-disable ./src/proto/*.proto",
-    "commit": "git-cz",
+    "commit": "git add --all && git-cz",
     "demo": "npm run build && cross-env NODE_ENV=test SUMERU_CONFIG=./trpc_nodejs.yaml node dist/app.js",
     "lint": "eslint src --fix --ext .ts,.vue",
     "release": "npm run build && git add --all && npm run commit && standard-version && git push",
@@ -12,7 +12,6 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "lint-staged",
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
   },
