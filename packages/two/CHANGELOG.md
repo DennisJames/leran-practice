@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.2](https://github.com/DennisJames/leran-practice/compare/vv-lerna-practice-two@2.0.1...vv-lerna-practice-two@2.0.2) (2020-05-31)
+
+
+### Bug Fixes
+
+* **two:** update package two into version 2 ([f7b9b5f](https://github.com/DennisJames/leran-practice/commit/f7b9b5fd7ac9a9f330adb67939fde88e70e36270))
+
+
+
+
+
 ## 2.0.1 (2020-05-31)
 
 
