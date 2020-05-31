@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.1.0](https://github.com/DennisJames/leran-practice/compare/vv-lerna-practice-one@2.0.3...vv-lerna-practice-one@2.1.0) (2020-05-31)
+
+
+### Features
+
+* **one:** update package one to version 3 ([d533894](https://github.com/DennisJames/leran-practice/commit/d5338947abad8af53046fcd3af9aa1d47dab4d99))
+
+
+### BREAKING CHANGES
+
+* **one:** version 3 log version 3 instead of version 2
+
+
+
+
+
 ## [2.0.3](https://github.com/DennisJames/leran-practice/compare/vv-lerna-practice-one@2.0.1...vv-lerna-practice-one@2.0.3) (2020-05-31)
 
 
