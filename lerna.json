@@ -1,0 +1,15 @@
+{
+  "command": {
+    "version": {
+      "allowBranch": "master",
+      "conventionalCommits": true,
+      "exact": true,
+      "gitRemote": "upstream",
+      "message": "chore(release): %s"
+    }
+  },
+  "packages": [
+    "packages/*"
+  ],
+  "version": "independent"
+}
