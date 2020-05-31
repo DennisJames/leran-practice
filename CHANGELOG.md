@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.1](https://github.com/DennisJames/leran-practice/compare/v2.0.0...v2.0.1) (2020-05-31)
+
+
+### Bug Fixes
+
+* **one:** update to version 4 ([377b49a](https://github.com/DennisJames/leran-practice/commit/377b49a34f9421faf9255bac8ed1e18a9d33c742))
+
 ## 2.0.0 (2020-05-31)
 
 
