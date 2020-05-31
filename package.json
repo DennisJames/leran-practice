@@ -10,6 +10,7 @@
     "lint": "eslint src --fix --ext .ts,.vue",
     "r-patch": "lerna publish patch --conventional-commits",
     "r-minor": "lerna publish minor --conventional-commits",
+    "postversion": "standard-version",
     "test": "jest"
   },
   "husky": {
